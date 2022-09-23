@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Card from "./UI/Card.js";
 import styles from "./MeaningCard.module.css";
 import MeaningItem from "./MeaningItem.js";
