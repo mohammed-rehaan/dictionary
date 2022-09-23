@@ -1,0 +1,15 @@
+.definition {
+    margin-bottom: 2rem;
+}
+
+.definition:last-child {
+    border: 0;
+}
+
+
+@media(max-width:724px) {
+    .definition {
+        margin-bottom: 1rem;
+    }
+
+}
